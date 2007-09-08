@@ -4,7 +4,7 @@
 Summary:        Jakarta Commons Discovery
 Name:           jakarta-commons-discovery
 Version:        0.4
-Release:        %mkrel 2.2
+Release:        %mkrel 2.3
 Epoch:          1
 Group:          Development/Java
 License:        Apache License
