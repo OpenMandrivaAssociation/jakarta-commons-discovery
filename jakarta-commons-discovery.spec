@@ -4,14 +4,12 @@
 Summary:        Jakarta Commons Discovery
 Name:           jakarta-commons-discovery
 Version:        0.4
-Release:        %mkrel 2.3
+Release:        %mkrel 2.4
 Epoch:          1
 Group:          Development/Java
 License:        Apache License
 URL:            http://jakarta.apache.org/commons/discovery/
 %if %{gcj_support}
-Requires(post): java-gcj-compat
-Requires(postun): java-gcj-compat
 BuildRequires:  java-gcj-compat-devel
 %else
 BuildArch:      noarch
