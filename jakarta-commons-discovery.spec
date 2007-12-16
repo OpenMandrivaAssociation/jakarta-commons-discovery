@@ -4,7 +4,7 @@
 Summary:        Jakarta Commons Discovery
 Name:           jakarta-commons-discovery
 Version:        0.4
-Release:        %mkrel 2.4
+Release:        %mkrel 2.5
 Epoch:          1
 Group:          Development/Java
 License:        Apache License
@@ -21,7 +21,7 @@ BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}-root
 #Vendor:        JPackage Project
 #Distribution:  JPackage
 BuildRequires:  ant
-BuildRequires:  jpackage-utils >= 0:1.5
+BuildRequires:  java-rpmbuild >= 0:1.5
 BuildRequires:  junit >= 0:3.7
 BuildRequires:  jakarta-commons-logging >= 0:1.0.1
 Requires:       jakarta-commons-logging >= 0:1.0.1
