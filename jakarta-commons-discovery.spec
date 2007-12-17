@@ -17,7 +17,6 @@ BuildArch:      noarch
 Source0:        http://www.apache.org/dist/jakarta/commons/discovery/source/commons-discovery-0.4-src.tar.gz
 Source1:        http://www.apache.org/dist/jakarta/commons/discovery/source/commons-discovery-0.4-src.tar.gz.asc
 Source2:        http://www.apache.org/dist/jakarta/commons/discovery/source/commons-discovery-0.4-src.tar.gz.md5
-BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}-root
 #Vendor:        JPackage Project
 #Distribution:  JPackage
 BuildRequires:  ant
