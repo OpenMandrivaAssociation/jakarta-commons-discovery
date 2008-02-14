@@ -7,6 +7,7 @@ Version:        0.4
 Release:        %mkrel 2.5
 Epoch:          1
 Group:          Development/Java
+BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 License:        Apache License
 URL:            http://jakarta.apache.org/commons/discovery/
 %if %{gcj_support}
