@@ -4,7 +4,7 @@
 Summary:        Jakarta Commons Discovery
 Name:           jakarta-commons-discovery
 Version:        0.4
-Release:        %mkrel 2.7
+Release:        %mkrel 2.8
 Epoch:          1
 Group:          Development/Java
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
