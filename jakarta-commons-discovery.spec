@@ -8,7 +8,7 @@ Version:	0.4
 Release:	3
 Group:		Development/Java
 License:	Apache License
-Url:		http://jakarta.apache.org/commons/discovery/
+Url:		https://jakarta.apache.org/commons/discovery/
 Source0:	http://www.apache.org/dist/jakarta/commons/discovery/source/commons-discovery-0.4-src.tar.gz
 Source1:	http://www.apache.org/dist/jakarta/commons/discovery/source/commons-discovery-0.4-src.tar.gz.asc
 Source2:	http://www.apache.org/dist/jakarta/commons/discovery/source/commons-discovery-0.4-src.tar.gz.md5
